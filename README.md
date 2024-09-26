@@ -25,5 +25,5 @@ O projeto foi criado usando **HTML**, **CSS**, com o objetivo de proporcionar um
 - **CSS3**
 - **Font Awesome** (para ícones)
 - **Google Fonts** (para tipografia)
-
+- **Acesse o projeto concluído: https://luanjsv.github.io/Luh_conecta/
 
